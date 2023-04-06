@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+Cuenta Personal donde se suben mis proyectos personales
+
 # Take your Heart!!
 <!--
 **Jhowellz/Jhowellz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Cuenta Estudiantil
+<a href = "https://github.com/FranklinJPC"> EPN </a>
